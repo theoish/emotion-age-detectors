@@ -12,7 +12,6 @@ python-dotenv==1.0.0
 numpy==1.24.3
 pyjwt==2.8.0
 bcrypt==4.1.2
-'@ | Out-File -FilePath requirements.txt -Encoding utf8
 
 # Install all
 pip install -r requirements.txt
